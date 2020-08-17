@@ -1,0 +1,108 @@
+[33mcommit 15340e3119eb4812978139d7207e85600efefc4d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Mon Aug 10 09:48:00 2020 -0700
+
+    BGootstrap and jQuery Part 2
+
+[33mcommit 1573ac7b8bea3aaf99c5610e81ed9c2273891513[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Mon Aug 10 00:46:48 2020 -0700
+
+    Bootstrap & jQuery Part 1
+
+[33mcommit 7a74f5726b918187d7f11e27bec66b651326d1b7[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Sat Aug 8 12:52:16 2020 -0700
+
+    Week 3 Assignment
+
+[33mcommit 3634a0217fa4a684648c785ce48e59c4e5778eb8[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Thu Aug 6 00:01:54 2020 -0700
+
+    Carousel
+
+[33mcommit 8852b40489d3f93ccb0f3d81e85f5dfc0f6b4933[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Wed Aug 5 22:36:55 2020 -0700
+
+    Tooltips
+
+[33mcommit 26c433a0facb0477d86d21e10920fd052248b36e[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Wed Aug 5 21:44:39 2020 -0700
+
+    Accordion
+
+[33mcommit 7c6a40a7002b7d75756cf36fa838fc29d5667435[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Wed Aug 5 21:37:16 2020 -0700
+
+    Tabs
+
+[33mcommit b98a54d76ba9d424d4be60073f35138eab137189[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Sun Aug 2 00:22:27 2020 -0700
+
+    Week 2 Assignment
+
+[33mcommit 1806f9bd0cb7b2b631fa28640a5f2475b5c0219b[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Thu Jul 30 02:11:32 2020 -0700
+
+    Images and Media
+
+[33mcommit e996e7c1f83ada592a24f93778b984daa75f556b[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Mon Jul 27 23:52:56 2020 -0700
+
+    Tables and Cards
+
+[33mcommit c6ced0b530a1277fc25deb01449ce073650eb4e0[m
+Merge: 6a2be91 5f654f5
+Author: Ana S <anacaparas@gmail.com>
+Date:   Sun Jul 26 01:37:28 2020 -0700
+
+    Merge branch 'master' of https://github.com/acapsac/nucamp-bootstrap
+
+[33mcommit 6a2be913f3ce6bab2dd4f4c24f4f746e75df50cb[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Sun Jul 26 01:23:34 2020 -0700
+
+    Forms
+
+[33mcommit 731c464493553698313f834ee8123678f0a291cc[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Sat Jul 25 13:39:03 2020 -0700
+
+    Adding Custom Styles
+
+[33mcommit 1ef3bb102c82fda01f5adf33d5a608d0ccc438a8[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Sat Jul 25 05:47:10 2020 -0700
+
+    add new file
+
+[33mcommit 0ee161d58d703af2c7451c1abcbf3cfe96489e6a[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Sat Jul 25 05:27:17 2020 -0700
+
+    Second commit
+
+[33mcommit 5f654f50675e84f22a14995d1e4d6820cd8e116f[m
+Author: acapsac <68766476+acapsac@users.noreply.github.com>
+Date:   Sat Jul 25 03:50:06 2020 -0700
+
+    Initial commit
+
+[33mcommit 63d3307b5a316a2eaeabc618a82a8399ae85c49f[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Sat Jul 25 03:47:45 2020 -0700
+
+    My First Bootstrap Project
+
+[33mcommit 8a1906649de6880dc74bdd8b1b9d76c772d98f91[m
+Author: Ana S <anacaparas@gmail.com>
+Date:   Sat Jul 25 03:24:37 2020 -0700
+
+    bootstrap Project Setup
